@@ -1,0 +1,29 @@
+_repo: A-Dissertation-on-Horses--13-Wherein-It-is-Demonstrated-by-Matters-of-Fact-as-Well-as-from-the__5710
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Osmer, William
+    alias: Osmer, W. (William)
+    gutenberg_agent_id: '1845'
+    url: http://www.gutenberg.org/2009/agents/1845
+description: ''
+gutenberg_bookshelf: Zoology
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horses'
+- !lcc 'SF'
+- !lcsh 'Horse breeds -- England'
+- !lcsh 'Horses -- Breeding'
+- GITenberg
+title: "A Dissertation on Horses\r\nWherein It is Demonstrated, by Matters of Fact,\
+  \ as Well as from the Principles of Philosophy, That Innate Qualities Do Not Exist,\
+  \ and That the Excellence of This Animal is Altogether Mechanical and Not in the\
+  \ Blood"
+url: http://www.gutenberg.org/ebooks/5710
